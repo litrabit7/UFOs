@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview: 
-The project is to create dynamic webpage allow viewer to filter the UFO sightings baesd on selection
+The project is to organize the UFO data to create dynamic webpage allow viewer to filter the UFO sightings baesd on user selection
  
  ## Result:
 
